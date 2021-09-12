@@ -1,2 +1,7 @@
-# pos_barcode
-pos barcode
+## Barcode
+
+Barcode
+
+#### License
+
+MIT
